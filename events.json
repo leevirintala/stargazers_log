@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Hello-World",
+    "owner": "octocat",
+    "url": "https://github.com/octocat/Hello-World",
+    "description": "My first repository on GitHub!",
+    "starred_at": "2024-01-15"
+  },
+  {
+    "name": "you-dont-need-jquery",
+    "owner": "agnoster",
+    "url": "https://github.com/agnoster/you-dont-need-jquery",
+    "description": "A list of alternatives to jQuery.",
+    "starred_at": "2024-02-20"
+  },
+  {
+    "name": "awesome",
+    "owner": "sindresorhus",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "Lists about all kinds of topics.",
+    "starred_at": "2024-03-08"
+  }
+]
